@@ -1,2 +1,2 @@
 # Algorithms-and-data-structures
-Laboratory projects on algorithms and data structures during the second semester at NTUU KPI
+Laboratory projects for algorithms and data structures course during the second semester at NTUU KPI
